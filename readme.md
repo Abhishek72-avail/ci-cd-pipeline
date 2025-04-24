@@ -2,7 +2,7 @@
 
 This repository demonstrates a complete CI/CD pipeline using GitHub Actions and Docker without requiring any cloud resources. The pipeline builds a Docker image, runs tests, and deploys locally.
 
-![CI/CD Pipeline Workflow](https://github.com/Abhishek72-avail/cicd-demo/raw/main/docs/images/cicd-pipeline.png)
+![CI/CD Pipeline Workflow](https://github.com/Abhishek72-avail/ci-cd-pipeline/blob/main/docs/images/cicd-pipeline.png)
 
 ## Project Overview
 
