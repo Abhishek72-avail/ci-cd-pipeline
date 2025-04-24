@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:16-alpine
 
 WORKDIR /app
 
@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["npm", "node app.js"]
+CMD ["npm", "node app.js", "Start"]
